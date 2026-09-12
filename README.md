@@ -5,14 +5,8 @@ This repository contains the source code and solution overview for **Team COiN L
 ## Team Members
 * **Md. Abdur Rahman**
 * **Md. Aayat Hossain Mridha**
-*(Computational Intelligence Lab, Southeast University, Dhaka, Bangladesh)*
 
-<p align="center">
-  <!-- REPLACE THE SRC WITH THE ACTUAL IMAGE PATH OF YOUR TEAM MEMBER(S) -->
-  <img src="[team_member.jpg](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F31499789%2Fd97ed70da7928e9bd73dc7a23c702e62%2FWhatsApp%20Image%202026-09-11%20at%206.29.51%20PM.jpeg?generation=1789226596444852&alt=media)" alt="Team Member Figure" width="400"/>
-  <br>
-  <em>Team COiN Lab</em>
-</p>
+![Team COiN Lab](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F31499789%2Fd97ed70da7928e9bd73dc7a23c702e62%2FWhatsApp%20Image%202026-09-11%20at%206.29.51%20PM.jpeg?generation=1789226596444852&alt=media)
 
 ## Overview: A CPU-Only Temporal Fraud Detection System
 
